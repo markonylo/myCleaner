@@ -1,6 +1,0 @@
-# Stavi ovde pakete koje hoces da deinstalirac, jedan po redu.
-# Linije koje pocinu sa # se ignorisu.
-# Primer:
-# com.facebook.katana
-# com.microsoft.teams
-# Ili koristi dugme "Kopiraj za ADB" u Android aplikaciji.
